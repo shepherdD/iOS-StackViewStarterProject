@@ -14,6 +14,7 @@ class ViewController: UIViewController
     @IBOutlet weak var verticalStackView: UIStackView!
     @IBOutlet weak var horizontalStackView: UIStackView!
     
+    
     override func viewDidLoad()
     {
         super.viewDidLoad()
